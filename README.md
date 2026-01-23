@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedseid9392\&show_icons=true\&theme=default)
 
 ---
 
