@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 ## 📫 Contact Me
 
 * 📧 Email: [ahmedseid4451@gmail.com(mailto:ahmedseid4451@gmail.com)
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ahmed-seid4451?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 ---
 
